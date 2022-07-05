@@ -8,14 +8,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" height="40" width="40"/>
 </div>
+<br/>
  ### Tools:
  <i class="devicon-git-plain-wordmark colored" height="40" width="40"></i>
  <i class="devicon-visualstudio-plain-wordmark colored" height="40" width="40"></i>
+ <br/>
  ### 📫 How to reach me:
-<div>
- <a href="https://www.linkedin.com/in/angelica-shigematsu" target="_blank"><i class="devicon-linkedin-plain colored"></i></a>
-</div>
-
+ <a href="https://www.linkedin.com/in/angelica-shigematsu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <br/>
 <div>
 <a href="https://github.com/angelica-shigematsu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelica-shigematsu&layout=compact&langs_count=7&theme=dracula"/>
