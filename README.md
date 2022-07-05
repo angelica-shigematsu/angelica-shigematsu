@@ -1,8 +1,14 @@
-- 👋 Hi, I'm Angélica Shigematsu 
+##👋 Hi, I'm Angélica Shigematsu 
+
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Java
-- 📫 How to reach me on linkedin https://www.linkedin.com/in/angelica-shigematsu
-<!---
-angelica-shigematsu/angelica-shigematsu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me on linkedin <a href="https://www.linkedin.com/in/angelica-shigematsu"> Linkedin </a>
+- 😄 Pronouns: she/her
+### 🌱 I’m currently learning :
+<i class="devicon-nodejs-plain-wordmark"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />        
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+ ### Tools:
+ <i class="devicon-git-plain-wordmark colored"></i>
+ 
+                    
+          
