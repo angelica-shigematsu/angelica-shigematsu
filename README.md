@@ -13,13 +13,11 @@
  <i class="devicon-visualstudio-plain-wordmark colored" height="40" width="40"></i>
  ### 📫 How to reach me:
 <div>
-  <a href="https://www.linkedin.com/in/angelica-shigematsu" target="_blank">
-        <i class="devicon-linkedin-plain colored"></i>
-   </a>
+ <a href="https://www.linkedin.com/in/angelica-shigematsu" target="_blank"><i class="devicon-linkedin-plain colored"></i></a>
 </div>
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/angelica-shigematsu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelica-shigematsu&layout=compact&langs_count=7&theme=dracula"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelica-shigematsu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
