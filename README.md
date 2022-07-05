@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
----
+--- 
 <div>
 <a href="https://github.com/angelica-shigematsu">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelica-shigematsu&layout=compact&langs_count=7&theme=dracula"/>
