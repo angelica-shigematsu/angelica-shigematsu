@@ -3,6 +3,7 @@
 
 - 👀 I’m interested in Web Development
 - 😄 Pronouns: she/her
+- 👩‍💻 Bootcamp ElasNaTech: Web Development
 ---
  ### 👩‍💻 I'm currently learning languages and tools:
 <div>
