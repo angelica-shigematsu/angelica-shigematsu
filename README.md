@@ -1,8 +1,13 @@
 ## 👋 Hi, I'm Angélica Shigematsu 
  <a href="https://www.linkedin.com/in/angelica-shigematsu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a>
 
-- 👀 I’m interested in Web Development 
+- 👀 I’m Back-End Developer student, always learning and praticing my hard skills
 - 😄 Pronouns: she/her
+- I'm last year as student of System Analysis at Fatec Sorocaba 
+- My first contact with programmer languages had been at ETEC Fernando Prestes.
+- I have professional experience in TypeScript, Node and MongoDB.
+- I do course to improve my soft skills, as theme intelligence emocional and time management.
+- My values are inclusion and respect others that have several opinion and different views.
 
 ---
  ### 👩‍💻 I'm currently learning languages and tools:
