@@ -5,9 +5,6 @@
 - 😄 Pronouns: she/her
 - I'm last year as student of System Analysis at Fatec Sorocaba 
 - My first contact with programmer languages had been at ETEC Fernando Prestes.
-- I have professional experience in TypeScript, Node and MongoDB.
-- I do course to improve my soft skills, as theme intelligence emocional and time management.
-- My values are inclusion and respect others that have several opinion and different views.
 
 ---
  ### 👩‍💻 I'm currently learning languages and tools:
@@ -23,7 +20,6 @@
 #### Frameworks
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 #### Ides/Editors
