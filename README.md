@@ -1,10 +1,9 @@
 ## 👋 Hi, I'm Angélica Shigematsu 
  <a href="https://www.linkedin.com/in/angelica-shigematsu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a>
 
-- 👀 I’m Back-End Developer student, always learning and praticing my hard skills
+- 👀 I’m Back-End Developer student and System Analysis
 - 😄 Pronouns: she/her
-- I'm last year as student of System Analysis at Fatec Sorocaba 
-- My first contact with programmer languages had been at ETEC Fernando Prestes.
+- My first contact with programmer languages had been at ETEC Fernando Prestes in technical school.
 
 ---
  ### 👩‍💻 I'm currently learning languages and tools:
