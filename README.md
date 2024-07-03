@@ -3,8 +3,6 @@
 - 👀 I’m Back-End Developer and graduated in System Analysis.
 - 😄 Pronouns: she/her
 - 🏫 My first contact with programmer languages went in technical school.
-- 💻 Currently, I have been student at Oracle Next Education where I study Spring Boot.
-- 👩‍🎓 I have been studying JavaScript in Web Developement by Descodificadas.
 
 ---
  ### 👩‍💻 I'm currently learning languages and tools:
