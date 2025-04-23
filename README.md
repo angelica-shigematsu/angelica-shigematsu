@@ -34,8 +34,9 @@
 #### 📞 Contact
 <a href="https://www.linkedin.com/in/angelica-shigematsu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" align="center"></a>
 
----
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=angelica-shigematsu&theme=dracula&hide_border=true&border_radius=4.3)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=angelica-shigematsu&theme=dracula&hide_border=true&border_radius=4.3)](https://git.io/streak-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=angelica-shigematsu&theme=dracula&hide_border=true&border_radius=4.3)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelica-shigematsu&theme=dracula&layout=compact)](https://github.com/angelica-shigematsu/github-readme-stats)
 
                     
